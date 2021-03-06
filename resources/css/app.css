@@ -1,0 +1,8 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import 'bg.css';
+@import 'color.css';
+@import 'carousel.css';
+/*Borrar por si no sirve*/
+@import '-bootstrap/dist/css/bootstrap.min.css';
